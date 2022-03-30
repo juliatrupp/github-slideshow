@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Candy is dandy but liquor is quicker.
 Use the left arrow to go back!
